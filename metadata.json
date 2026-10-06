@@ -1,0 +1,6 @@
+{
+  "name": "ZAPE 3.0: Zambia Architecture Professional Ecosystem",
+  "description": "National Built-Environment Governance, Intellectual Property, Regulated Design Marketplace, Foreign Drawing Adoption & Corporate Practice Control Platform for Zambia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
